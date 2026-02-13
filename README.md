@@ -85,19 +85,6 @@ DROP PLUGGABLE DATABASE [RO_pdb_29152] INCLUDING DATAFILES;
 
 ---
 
-## Repository Structure
-```
-oracle_pdb_ass_II_[studentId]_[firstname]/
-├── README.md
-└── screenshots/
-    ├── task1_pdb_creation.png
-    ├── task1_pdb_open.png
-    ├── task1_user_verification.png
-    ├── task2_temp_creation.png
-    ├── task2_both_pdbs.png
-    ├── task2_deletion.png
-    └── task3_oem_dashboard.png
-```
 
 ---
 
@@ -110,7 +97,4 @@ I, **Rutayisire Gihozo Rolando** (ID: **29152**), declare this work is completed
 
 ---
 
-## Submission
-- **Repository:** PUBLIC ✓
-- **Main PDB:** [Your PDB name]
-- **Status:** Complete
+
