@@ -16,7 +16,7 @@ Hands-on Oracle Multitenant Architecture assignment demonstrating PDB creation, 
 
 ## Oracle Environment
 - **Database:** Oracle 21c Express Edition (21.3.0.0.0)
-- **OS:** [Your OS]
+- **OS:** [Windows 10]
 - **Tools:** SQL*Plus, Oracle Enterprise Manager
 
 ---
@@ -74,14 +74,6 @@ DROP PLUGGABLE DATABASE [RO_pdb_29152] INCLUDING DATAFILES;
 **Evidence:** OEM dashboard screenshot showing PDB status and username.
 <img width="1344" height="628" alt="OEM_DASHBOARD" src="https://github.com/user-attachments/assets/2e2755c9-05d1-4bf7-94cc-df09ac49f896" />
 
-
----
-
-## Challenges and Solutions
-
-**Issue:** "Insufficient privileges" error when opening PDB  
-**Solution:** Reconnected as SYSDBA using `sqlplus / as sysdba`  
-**Learning:** Always verify SYSDBA connection for administrative tasks
 
 ---
 
